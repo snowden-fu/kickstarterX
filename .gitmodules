@@ -1,0 +1,3 @@
+[submodule "crowdfundingx"]
+	path = crowdfundingx
+	url = https://github.com/snowden-fu/crowdfundingx
